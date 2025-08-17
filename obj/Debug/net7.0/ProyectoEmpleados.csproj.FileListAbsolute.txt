@@ -1,0 +1,15 @@
+/Users/andreatrochez/Projects/ProyectoEmpleados/ProyectoEmpleados/obj/Debug/net7.0/ProyectoEmpleados.csproj.AssemblyReference.cache
+/Users/andreatrochez/Projects/ProyectoEmpleados/ProyectoEmpleados/obj/Debug/net7.0/ProyectoEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreatrochez/Projects/ProyectoEmpleados/ProyectoEmpleados/obj/Debug/net7.0/ProyectoEmpleados.AssemblyInfoInputs.cache
+/Users/andreatrochez/Projects/ProyectoEmpleados/ProyectoEmpleados/obj/Debug/net7.0/ProyectoEmpleados.AssemblyInfo.cs
+/Users/andreatrochez/Projects/ProyectoEmpleados/ProyectoEmpleados/obj/Debug/net7.0/ProyectoEmpleados.csproj.CoreCompileInputs.cache
+/Users/andreatrochez/Projects/ProyectoEmpleados/ProyectoEmpleados/bin/Debug/net7.0/ProyectoEmpleados
+/Users/andreatrochez/Projects/ProyectoEmpleados/ProyectoEmpleados/bin/Debug/net7.0/ProyectoEmpleados.deps.json
+/Users/andreatrochez/Projects/ProyectoEmpleados/ProyectoEmpleados/bin/Debug/net7.0/ProyectoEmpleados.runtimeconfig.json
+/Users/andreatrochez/Projects/ProyectoEmpleados/ProyectoEmpleados/bin/Debug/net7.0/ProyectoEmpleados.dll
+/Users/andreatrochez/Projects/ProyectoEmpleados/ProyectoEmpleados/bin/Debug/net7.0/ProyectoEmpleados.pdb
+/Users/andreatrochez/Projects/ProyectoEmpleados/ProyectoEmpleados/obj/Debug/net7.0/ProyectoEmpleados.dll
+/Users/andreatrochez/Projects/ProyectoEmpleados/ProyectoEmpleados/obj/Debug/net7.0/refint/ProyectoEmpleados.dll
+/Users/andreatrochez/Projects/ProyectoEmpleados/ProyectoEmpleados/obj/Debug/net7.0/ProyectoEmpleados.pdb
+/Users/andreatrochez/Projects/ProyectoEmpleados/ProyectoEmpleados/obj/Debug/net7.0/ProyectoEmpleados.genruntimeconfig.cache
+/Users/andreatrochez/Projects/ProyectoEmpleados/ProyectoEmpleados/obj/Debug/net7.0/ref/ProyectoEmpleados.dll
